@@ -1,5 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
+  margin-top: 5rem;
+  border: solid black 1px
 }
 
 .container {
@@ -15,6 +17,7 @@ body {
 
 .cabecalho__logo {
   margin-bottom: 50px;
+  padding: 2rem;
 }
 
 .cabecalho__logo img {
@@ -51,6 +54,7 @@ body {
   text-decoration: none;
   font-size: 22px;
   vertical-align: top;
+  margin-left: 1rem;
 }
 
 .conteudoPrincipal {
